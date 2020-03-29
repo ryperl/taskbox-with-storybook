@@ -6,6 +6,11 @@ This project is from the [Intro to Storybook tutorial](https://www.learnstoryboo
 
 Intro to Storybook teaches tried-and-true patterns for component development using Storybook. You’ll walk through essential UI component techniques while building a UI from scratch in React, Vue, or Angular. The info here is sourced from professional teams, core maintainers, and the awesome Storybook community. Professional developers at Airbnb, Dropbox, and Lonely Planet use Storybook to build durable documented UIs faster.
 
+## References
+[Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
+[Component Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
